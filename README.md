@@ -5,8 +5,7 @@
 This dashboard provides an analysis of sales performance, orders,
 quantities, payments, profits, products, and regional performance.
 
-![Sales Dashboard Screenshot](https://raw.githubusercontent.com/Sahil31312/Sales-Dashboard-Analysis-Power-BI/main/Screenshot-2026-06-20-015733.png)
-
+ 
 
 ## Key Metrics
 
