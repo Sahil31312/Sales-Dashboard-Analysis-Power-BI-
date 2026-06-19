@@ -5,7 +5,7 @@
 This dashboard provides an analysis of sales performance, orders,
 quantities, payments, profits, products, and regional performance.
 
-![Sale Dashboard Analysis](dd25eaa1-6b79-47d9-8573-1ab440466cdc.png)
+![Screenshot 2026-06-20 015733.png)
 
 ## Key Metrics
 
